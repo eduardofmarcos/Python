@@ -1,2 +1,3 @@
 # Python
-Simple python codes
+
+Simple python algorithms...
